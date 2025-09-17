@@ -1,0 +1,11 @@
+pandas>=2.0
+matplotlib>=3.7
+prophet>=1.1
+python-dotenv>=1.0
+requests>=2.31
+streamlit>=1.30
+
+
+
+
+
